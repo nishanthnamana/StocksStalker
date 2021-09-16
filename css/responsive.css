@@ -60,6 +60,14 @@
   #footer-copyrights {
     text-align: center;
   }
+
+  .header-title a {
+    font-size: 30px;
+  }
+
+  .about-content-image {
+    height: 250px;
+  }
 }
 
 /* Extra Small devices (Landscape Phones and Portrait Tablets)*/
@@ -127,6 +135,14 @@
   .testimonial blockquote {
     padding: 10px 50px;
   }
+
+  .header-title a {
+    font-size: 30px;
+  }
+
+  .about-content-image {
+    height: 250px;
+  }
 }
 
 @media (max-width: 400px) {
@@ -146,5 +162,13 @@
 
   .about-content-box {
     height: 750px;
+  }
+
+  .header-title a {
+    font-size: 30px;
+  }
+
+  .about-content-image {
+    height: 250px;
   }
 }
